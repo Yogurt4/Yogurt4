@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yogurt4
+- 👀 I’m interested in GIS, data processing, etc.
+- 🌱 I’m currently learning to survive.
+- 💞️ I’m looking to collaborate on OpenStreetMap related projects.
+- 📫 How to reach me ... That's a good question.
